@@ -5,7 +5,7 @@ Ahmet Özsarı
 Computer Engineering 
 
 ###  It's Main Page 
-#for now :)
+# for now :)
 
 ```markdown
 Here my code blocks
@@ -16,5 +16,7 @@ Here my code blocks
 If you have any question, you can ask me:
 e-mail: ahmetozsari.001@gmail.com  
 twitter: @ahmetozsari001
+
+https://www.linkedin.com/in/muhammed-hac%C4%B1-ahmet-%C3%B6zsar%C4%B1-a04321131
 
 Have a good day... ! 
