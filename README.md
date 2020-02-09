@@ -15,8 +15,9 @@ Here my code blocks
 
 If you have any question, you can ask me:
 e-mail: ahmetozsari.001@gmail.com  
-twitter: @ahmetozsari001
+twitter: @ahmetozsari
+my website is ahmetozsari.com
 
-https://www.linkedin.com/in/muhammed-hac%C4%B1-ahmet-%C3%B6zsar%C4%B1-a04321131
+https://www.linkedin.com/in/ahmetozsari
 
 Have a good day... ! 
